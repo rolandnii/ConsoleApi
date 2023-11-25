@@ -1,0 +1,15 @@
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\bin\Debug\net7.0\WebApiClient.exe
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\bin\Debug\net7.0\WebApiClient.deps.json
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\bin\Debug\net7.0\WebApiClient.runtimeconfig.json
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\bin\Debug\net7.0\WebApiClient.dll
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\bin\Debug\net7.0\WebApiClient.pdb
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\obj\Debug\net7.0\WebApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\obj\Debug\net7.0\WebApiClient.AssemblyInfoInputs.cache
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\obj\Debug\net7.0\WebApiClient.AssemblyInfo.cs
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\obj\Debug\net7.0\WebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\obj\Debug\net7.0\WebApiClient.dll
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\obj\Debug\net7.0\refint\WebApiClient.dll
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\obj\Debug\net7.0\WebApiClient.pdb
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\obj\Debug\net7.0\WebApiClient.genruntimeconfig.cache
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\obj\Debug\net7.0\ref\WebApiClient.dll
+C:\Users\james quansah\Desktop\C#\Practice\WebApiClient\bin\Debug\net7.0\Icons.json
